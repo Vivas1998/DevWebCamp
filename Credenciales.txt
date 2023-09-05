@@ -1,0 +1,22 @@
+-------------- business -------
+// SandBox URL
+https://sandbox.paypal.com
+// Email
+sb-47j4z327204238@business.example.com
+//Password
+8#;&rQ;e
+-------------- Personal -------
+// SandBox URL
+https://sandbox.paypal.com
+// Email
+sb-9stxu27189669@personal.example.com
+//Password
+girLF0>v
+
+
+// Client ID
+AWHWXF4xFIXQtBuzfWld__IploIBjd3G9B9x_wNVzy-iM8LESun9xNcOEZCY2u4CW6cyV2ZMUEDGTIBa
+
+// Secret key 1
+EJZ9bQ6W2bOLkyKi8aHq98q_r5_m9-qYRqN7lVNDpDL4L0w9hn8-YuTP_cEzfdLMA_qKTCbW7DpInVfh
+
